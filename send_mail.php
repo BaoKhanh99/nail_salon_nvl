@@ -20,14 +20,14 @@ try {
     $mail->isSMTP();// gửi mail SMTP
     $mail->Host = 'smtp.gmail.com';// Set the SMTP server to send through
     $mail->SMTPAuth = true;// Enable SMTP authentication
-    $mail->Username = 'tranlebaokhanh1999@gmail.com';// SMTP username
-    $mail->Password = 'hsvaszpbqrzlivub'; // SMTP password
+    $mail->Username = '@gmail.com';// SMTP username
+    $mail->Password = ''; // SMTP password
     $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;// Enable TLS encryption; `PHPMailer::ENCRYPTION_SMTPS` also accepted
     $mail->Port = 587; // TCP port to connect to
 
     //Recipients
     $mail->setFrom('from@example.com', 'Mailer');
-    $mail->addAddress('taycung1999@gmail.com', '1231'); // Add a recipient
+    $mail->addAddress('@gmail.com', '1231'); // Add a recipient
     // $mail->addAddress('ellen@example.com'); // Name is optional
     // $mail->addReplyTo('info@example.com', 'Information');
     // $mail->addCC('cc@example.com');
