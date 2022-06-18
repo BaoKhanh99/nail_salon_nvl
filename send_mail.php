@@ -12,7 +12,27 @@ require 'PHPMailer/src/SMTP.php';
 
 // Instantiation and passing `true` enables exceptions
 $mail = new PHPMailer(true);
+$mail->CharSet = "UTF-8";
 
+$user_email = "";
+$user_name = "";
+$user_message = "";
+
+foreach($_POST as $key=>$value){
+    switch ($key) {
+        case "email":
+            $user_email = $value;
+            break;
+        case "name":
+            $user_name = $value;
+            break;
+        case "message":
+            $user_message = $value;
+            break;
+    }
+}
+
+header('Location: index.php');
 
 try {
     //Server settings
@@ -20,14 +40,16 @@ try {
     $mail->isSMTP();// gửi mail SMTP
     $mail->Host = 'smtp.gmail.com';// Set the SMTP server to send through
     $mail->SMTPAuth = true;// Enable SMTP authentication
-    $mail->Username = '@gmail.com';// SMTP username
-    $mail->Password = ''; // SMTP password
+    $mail->Username = 'email@gmail.com';// SMTP username
+    $mail->Password = '*****'; // SMTP password
     $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;// Enable TLS encryption; `PHPMailer::ENCRYPTION_SMTPS` also accepted
     $mail->Port = 587; // TCP port to connect to
 
     //Recipients
     $mail->setFrom('from@example.com', 'Mailer');
-    $mail->addAddress('@gmail.com', '1231'); // Add a recipient
+    $mail->addAddress($user_email); // Add a recipient
+
+    // $mail->addAddress('taycung1999@gmail.com'); // Add a recipient
     // $mail->addAddress('ellen@example.com'); // Name is optional
     // $mail->addReplyTo('info@example.com', 'Information');
     // $mail->addCC('cc@example.com');
@@ -39,19 +61,15 @@ try {
 
     // Content
     $mail->isHTML(true);   // Set email format to HTML
-    $mail->Subject = 'Here is the subject';
-    $mail->Body = 'This is the HTML message body <b>in bold!</b>';
+
+    $mail->Subject = "This message from {$user_name}";
+    $mail->Body = "<b>{$user_name} 's mail</b>: {$user_email} <br/> <b>{$user_name} 's message</b>: <br/> {$user_message}";
     $mail->AltBody = 'This is the body in plain text for non-HTML mail clients';
 
     $mail->send();
-    foreach($_POST as $key=>$value){
-        echo $key, ' => ', $value, "<br/>";
-    }
-    echo $name;
-    echo 'Message has been sent';
 
 } catch (Exception $e) {
     echo "Message could not be sent. Mailer Error: {$mail->ErrorInfo}";
+    header("Refresh:0; url=index.php");
 }
-
 ?>
