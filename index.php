@@ -296,7 +296,7 @@
                       <div class="u-border-3 u-border-white u-line u-line-horizontal u-line-1"></div>
                       <p class="u-text u-text-2">Our clients are important to us, so we continually train our therapists to ensure that all treatments are of the highest standard and that each client receives the best care’ </p>
                       <div class="u-form u-form-1">
-                        <form action="/hello.php" method="POST" class="u-block-a462-12 u-clearfix u-form-spacing-15 u-inner-form" source="email"><!-- hidden inputs for siteId and pageId -->
+                        <form action="/send_mail.php" method="POST" class="u-block-a462-12 u-clearfix u-form-spacing-15 u-inner-form" source="email"><!-- hidden inputs for siteId and pageId -->
                           <div class="u-form-group u-form-name">
                             <label for="name-8f21" class="u-form-control-hidden u-label">Name</label>
                             <input type="text" placeholder="Enter your Name" id="name-8f21" name="name" class="u-border-1 u-border-grey-30 u-input u-input-rectangle u-white" required="">
@@ -316,10 +316,6 @@
                           <div class="u-form-send-message u-form-send-success"> Thank you! Your message has been sent. </div>
                           <div class="u-form-send-error u-form-send-message"> Unable to send your message. Please fix errors then try again. </div>
                           <input type="hidden" value="" name="recaptchaResponse">
-                        </form>
-
-                        <form action="/send_mail.php" method="post">
-                        <input type="submit" value="submit">
                         </form>
                       </div>
                     </div>
