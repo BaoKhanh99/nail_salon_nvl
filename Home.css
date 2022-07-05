@@ -9,7 +9,7 @@
 }
 
 .u-section-1 .u-image-1 {
-  background-image: url("images/beauty1.jpg");
+  background-image: url("images/nail_images/section_1.jpg");
   min-height: 827px;
   background-position: 72.04% 50%;
 }
@@ -231,7 +231,7 @@
     margin-top: 44px;
   }
 } .u-section-2 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("images/-min.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("images/nail_images/background_section_2.jpg");
   background-position: 50% 50%;
 }
 
@@ -449,7 +449,7 @@
 
 .u-section-4 .u-image-1 {
   min-height: 302px;
-  background-image: url("images/7b4af05451e6f223b58bbed0f7e601338ae6ca2d4639855c45e996f3f4db9f9ceb669a85e9e96fee2c2096b01719b02c6214ae12b6c3bb01d835c4_1280.jpg");
+  background-image: url("images/nail_images/unnamed.jpg");
 }
 
 .u-section-4 .u-container-layout-1 {
@@ -459,7 +459,7 @@
 
 .u-section-4 .u-image-2 {
   min-height: 302px;
-  background-image: url("images/5919fed0-9290-0161-07e7-b4aac8e308ea.jpg");
+  background-image: url("images/nail_images/unnamed1.jpg");
   background-position: 50% 50%;
 }
 
@@ -470,7 +470,7 @@
 
 .u-section-4 .u-image-3 {
   min-height: 302px;
-  background-image: url("images/-min.jpg");
+  background-image: url("images/nail_images/unnamed2.jpg");
 }
 
 .u-section-4 .u-container-layout-3 {
@@ -480,7 +480,7 @@
 
 .u-section-4 .u-image-4 {
   min-height: 302px;
-  background-image: url("images/beautifulspaasianwomantouchingherfaceperfectfreshskinpurebeautymodel_50889114.jpg");
+  background-image: url("images/nail_images/unnamed3.jpg");
   background-position: 19.64% 50%;
 }
 
@@ -491,13 +491,13 @@
 
 .u-section-4 .u-image-5 {
   min-height: 302px;
-  background-image: url("images/setofcosmeticpaintbrushformakeup_12322061.jpg");
+  background-image: url("images/nail_images/unnamed4.jpg");
   background-position: 50% 50%;
 }
 
 .u-section-4 .u-image-6 {
   min-height: 302px;
-  background-image: url("images/c5c053de3b67aef9dd25e745a5189ad6f51166b51ac53ce3174133843832b1e8bae847a59c7a53dac807acf17be4aad080c08c24fe72219b464817_1280.jpg");
+  background-image: url("images/nail_images/unnamed5.jpg");
 }
 
 .u-section-4 .u-container-layout-6 {
@@ -507,13 +507,13 @@
 
 .u-section-4 .u-image-7 {
   min-height: 302px;
-  background-image: url("images/closeupoffeetspatherapyandmassage_5387615402.jpg");
+  background-image: url("images/nail_images/unnamed6.jpg");
   background-position: 50% 50%;
 }
 
 .u-section-4 .u-image-8 {
   min-height: 302px;
-  background-image: url("images/fdrt-min.jpg");
+  background-image: url("images/nail_images/unnamed7.jpg");
 }
 
 .u-section-4 .u-container-layout-8 {
@@ -1061,7 +1061,7 @@
 }
 
 .u-section-7 .u-image-1 {
-  background-image: url("images/b1.jpg");
+  background-image: url("images/nail_images/section_7.jpg");
   min-height: 641px;
   background-position: 100% 50%;
 }
@@ -1548,7 +1548,7 @@
 }
 
 .u-section-9 .u-image-1 {
-  background-image: url("images/girlinawellnesscenter_10981.jpg");
+  background-image: url("images/nail_images/section_9.jpg");
   min-height: 601px;
   background-position: 50% 50%;
 }
@@ -2048,7 +2048,7 @@
     margin-bottom: 87px;
   }
 } .u-section-11 {
-  background-image: linear-gradient(0deg, rgba(255,255,255,0.45), rgba(255,255,255,0.45)), url("images/eb2ed1ba-05cd-04e3-ecae-7d80d4432e34.jpg");
+  background-image: linear-gradient(0deg, rgba(255,255,255,0.45), rgba(255,255,255,0.45)), url("images/nail_images/section_11.jpg");
   background-position: 50% 50%;
 }
 
@@ -2374,4 +2374,7 @@
     width: auto;
     margin-top: 2px;
   }
+}
+th {
+  text-align: center;
 }

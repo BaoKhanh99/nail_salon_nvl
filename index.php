@@ -25,9 +25,9 @@
   </head>
   <body data-home-page="Home.html" data-home-page-title="Home" class="u-body u-xl-mode"><header class="u-clearfix u-header" id="sec-771b"><div class="u-align-left u-clearfix u-sheet u-sheet-1">
         <h3 class="u-align-left-xs u-custom-font u-headline u-text u-text-font u-text-1">
-          <a href="/">Beauty Salon</a>
+          <a href="/">Apple Nails</a>
         </h3>
-      </div></header> 
+      </div></header>
     <section class="u-clearfix u-grey-5 u-valign-bottom u-section-1" id="sec-c458">
       <div class="u-clearfix u-expanded-width u-layout-wrap u-layout-wrap-1">
         <div class="u-layout">
@@ -41,20 +41,20 @@
                 </a>
                 <a href="https://nicepage.com/templates" class="u-border-1 u-border-active-palette-2-base u-border-hover-palette-1-base u-btn u-button-style u-none u-text-palette-1-base u-btn-2"><span class="u-file-icon u-icon u-icon-2"><img src="images/2111463.png" alt=""></span>&nbsp;
                 </a>
-                <h5 class="u-custom-font u-text u-text-font u-text-1">beauty studio</h5>
+                <h5 class="u-custom-font u-text u-text-font u-text-1">Apple Nails</h5>
                 <h1 class="u-text u-title u-text-2">Welcome</h1>
-                <p class="u-large-text u-text u-text-variant u-text-3">to Slow Beauty Eco Salon, an Organic Beauty Salon in New York</p>
-                <a href="tel:0123456789" class="u-btn u-btn-round u-button-style u-palette-4-base u-radius-21 u-btn-3">contact us</a>
+                <p class="u-large-text u-text u-text-variant u-text-3">Nail Salon in Peterborough Open today until 7:00 PM</p>
+                <a href="tel:17059776886" class="u-btn u-btn-round u-button-style u-palette-4-base u-radius-21 u-btn-3">contact us</a>
               </div>
             </div>
           </div>
         </div>
       </div>
     </section>
+
     <section class="u-align-center u-clearfix u-image u-shading u-section-2" id="sec-6632" data-image-width="1600" data-image-height="1067">
       <div class="u-clearfix u-sheet u-sheet-1">
-        <h2 class="u-custom-font u-font-source-sans-pro u-text u-text-1">Shared Hosting Plans</h2>
-        <p class="u-text u-text-2">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla</p>
+
         <div class="u-expanded-width-lg u-expanded-width-md u-expanded-width-sm u-expanded-width-xl u-table u-table-responsive u-table-1">
           <table class="u-table-entity">
             <colgroup>
@@ -63,34 +63,169 @@
             </colgroup>
             <thead class="u-palette-5-dark-3 u-table-header u-table-header-1">
               <tr style="height: 78px;">
-                <th class="u-border-2 u-border-no-left u-border-no-right u-border-no-top u-border-palette-5-dark-1 u-table-cell u-table-cell-1">Services</th>
-                <th class="u-border-2 u-border-no-left u-border-no-right u-border-no-top u-border-palette-5-dark-1 u-table-cell u-table-cell-2">price</th>
+                <th colspan="2" class="u-border-2 u-border-no-left u-border-no-right u-border-no-top u-border-palette-5-dark-1 u-table-cell u-table-cell-1" style= "text-align: center">Nail Care</th>
+                <!-- <th class="u-border-2 u-border-no-left u-border-no-right u-border-no-top u-border-palette-5-dark-1 u-table-cell u-table-cell-2">price</th> -->
               </tr>
             </thead>
             <tbody class="u-black u-table-body u-table-body-1">
               <tr style="height: 74px;">
-                <td class="u-border-1 u-border-palette-5-dark-1 u-table-cell u-table-cell-3">Service 1</td>
-                <td class="u-border-1 u-border-palette-5-dark-1 u-table-cell u-table-cell-4">$10</td>
+                <td class="u-border-1 u-border-palette-5-dark-1 u-table-cell u-table-cell-3">Bio Gel Full Set</td>
+                <td class="u-border-1 u-border-palette-5-dark-1 u-table-cell u-table-cell-4">$ 70+</td>
               </tr>
               <tr style="height: 53px;">
-                <td class="u-border-1 u-border-palette-5-dark-1 u-table-cell u-table-cell-5"> Service 2</td>
-                <td class="u-border-1 u-border-palette-5-dark-1 u-table-cell u-table-cell-6">$20</td>
+                <td class="u-border-1 u-border-palette-5-dark-1 u-table-cell u-table-cell-5">Bio Gel Refill</td>
+                <td class="u-border-1 u-border-palette-5-dark-1 u-table-cell u-table-cell-6">$ 55+</td>
               </tr>
               <tr style="height: 53px;">
-                <td class="u-border-1 u-border-palette-5-dark-1 u-table-cell u-table-cell-7"> Service 3</td>
-                <td class="u-border-1 u-border-palette-5-dark-1 u-table-cell u-table-cell-8">$25</td>
+                <td class="u-border-1 u-border-palette-5-dark-1 u-table-cell u-table-cell-7">Acrylic Full Set</td>
+                <td class="u-border-1 u-border-palette-5-dark-1 u-table-cell u-table-cell-8">$ 45+</td>
               </tr>
               <tr style="height: 53px;">
-                <td class="u-border-1 u-border-palette-5-dark-1 u-table-cell u-table-cell-9"> Service 4</td>
-                <td class="u-border-1 u-border-palette-5-dark-1 u-table-cell u-table-cell-10">$30</td>
+                <td class="u-border-1 u-border-palette-5-dark-1 u-table-cell u-table-cell-9">Acrylic Fill</td>
+                <td class="u-border-1 u-border-palette-5-dark-1 u-table-cell u-table-cell-10">$ 40+</td>
               </tr>
               <tr style="height: 53px;">
-                <td class="u-border-1 u-border-palette-5-dark-1 u-table-cell u-table-cell-11"> Service 6</td>
-                <td class="u-border-1 u-border-palette-5-dark-1 u-table-cell u-table-cell-12">$35</td>
+                <td class="u-border-1 u-border-palette-5-dark-1 u-table-cell u-table-cell-11">Gel Full Set</td>
+                <td class="u-border-1 u-border-palette-5-dark-1 u-table-cell u-table-cell-12">$ 55+</td>
               </tr>
               <tr style="height: 53px;">
-                <td class="u-border-1 u-border-palette-5-dark-1 u-table-cell u-table-cell-13"> Service 7</td>
-                <td class="u-border-1 u-border-palette-5-dark-1 u-table-cell u-table-cell-14">$40</td>
+                <td class="u-border-1 u-border-palette-5-dark-1 u-table-cell u-table-cell-13">Gel Fill</td>
+                <td class="u-border-1 u-border-palette-5-dark-1 u-table-cell u-table-cell-14">$ 45+</td>
+              </tr>
+              <tr style="height: 53px;">
+                <td class="u-border-1 u-border-palette-5-dark-1 u-table-cell u-table-cell-13">Solar Full Set</td>
+                <td class="u-border-1 u-border-palette-5-dark-1 u-table-cell u-table-cell-14">$ 65+</td>
+              </tr>
+              <tr style="height: 53px;">
+                <td class="u-border-1 u-border-palette-5-dark-1 u-table-cell u-table-cell-13">Solar Fill</td>
+                <td class="u-border-1 u-border-palette-5-dark-1 u-table-cell u-table-cell-14">$ 50+</td>
+              </tr>
+              <tr style="height: 53px;">
+                <td class="u-border-1 u-border-palette-5-dark-1 u-table-cell u-table-cell-13">Pink & White Fill</td>
+                <td class="u-border-1 u-border-palette-5-dark-1 u-table-cell u-table-cell-14">$ 5+</td>
+              </tr>
+              <tr style="height: 53px;">
+                <td class="u-border-1 u-border-palette-5-dark-1 u-table-cell u-table-cell-13">Nail Repair</td>
+                <td class="u-border-1 u-border-palette-5-dark-1 u-table-cell u-table-cell-14">$ 5+</td>
+              </tr>
+              <tr style="height: 53px;">
+                <td class="u-border-1 u-border-palette-5-dark-1 u-table-cell u-table-cell-13">Nail Take Off</td>
+                <td class="u-border-1 u-border-palette-5-dark-1 u-table-cell u-table-cell-14">$ 15</td>
+              </tr>
+              <tr style="height: 53px;">
+                <td class="u-border-1 u-border-palette-5-dark-1 u-table-cell u-table-cell-13">Shellac</td>
+                <td class="u-border-1 u-border-palette-5-dark-1 u-table-cell u-table-cell-14">$ 25</td>
+              </tr>
+              <tr style="height: 53px;">
+                <td class="u-border-1 u-border-palette-5-dark-1 u-table-cell u-table-cell-13">Manicure Shellac Colour</td>
+                <td class="u-border-1 u-border-palette-5-dark-1 u-table-cell u-table-cell-14">$ 35</td>
+              </tr>
+              <tr style="height: 53px;">
+                <td class="u-border-1 u-border-palette-5-dark-1 u-table-cell u-table-cell-13">Manicure Shellac Frech</td>
+                <td class="u-border-1 u-border-palette-5-dark-1 u-table-cell u-table-cell-14">$ 40</td>
+              </tr>
+              <tr style="height: 53px;">
+                <td class="u-border-1 u-border-palette-5-dark-1 u-table-cell u-table-cell-13">Manicure</td>
+                <td class="u-border-1 u-border-palette-5-dark-1 u-table-cell u-table-cell-14">$ 20</td>
+              </tr>
+              <tr style="height: 53px;">
+                <td class="u-border-1 u-border-palette-5-dark-1 u-table-cell u-table-cell-13">Pedicure</td>
+                <td class="u-border-1 u-border-palette-5-dark-1 u-table-cell u-table-cell-14">$ 35</td>
+              </tr>
+              <tr style="height: 53px;">
+                <td class="u-border-1 u-border-palette-5-dark-1 u-table-cell u-table-cell-13">Pedicure Spa</td>
+                <td class="u-border-1 u-border-palette-5-dark-1 u-table-cell u-table-cell-14">$ 45</td>
+              </tr>
+              <tr style="height: 53px;">
+                <td class="u-border-1 u-border-palette-5-dark-1 u-table-cell u-table-cell-13">Pedicure Shellac</td>
+                <td class="u-border-1 u-border-palette-5-dark-1 u-table-cell u-table-cell-14">$ 45</td>
+              </tr>
+              <tr style="height: 53px;">
+                <td class="u-border-1 u-border-palette-5-dark-1 u-table-cell u-table-cell-13">Pedicure Shellac Spa</td>
+                <td class="u-border-1 u-border-palette-5-dark-1 u-table-cell u-table-cell-14">$ 60</td>
+              </tr>
+              <tr style="height: 53px;">
+                <td class="u-border-1 u-border-palette-5-dark-1 u-table-cell u-table-cell-13">Pedicure & Manicure</td>
+                <td class="u-border-1 u-border-palette-5-dark-1 u-table-cell u-table-cell-14">$ 50</td>
+              </tr>
+              <tr style="height: 53px;">
+                <td class="u-border-1 u-border-palette-5-dark-1 u-table-cell u-table-cell-13">Polish Change (Hands)</td>
+                <td class="u-border-1 u-border-palette-5-dark-1 u-table-cell u-table-cell-14">$ 10</td>
+              </tr>
+              <tr style="height: 53px;">
+                <td class="u-border-1 u-border-palette-5-dark-1 u-table-cell u-table-cell-13">Polish Change (Hands)</td>
+                <td class="u-border-1 u-border-palette-5-dark-1 u-table-cell u-table-cell-14">$ 15</td>
+              </tr>
+
+            </tbody>
+          </table>
+        </div>
+        <a href="https://nicepage.com/c/team-html-templates" class="u-btn u-btn-round u-button-style u-hover-palette-4-base u-palette-3-base u-radius-50 u-btn-1"><span class="u-icon"><svg class="u-svg-content" viewBox="0 0 513.64 513.64" x="0px" y="0px" style="width: 1em; height: 1em;"><path d="M499.66,376.96l-71.68-71.68c-25.6-25.6-69.12-15.359-79.36,17.92c-7.68,23.041-33.28,35.841-56.32,30.72 c-51.2-12.8-120.32-79.36-133.12-133.12c-7.68-23.041,7.68-48.641,30.72-56.32c33.28-10.24,43.52-53.76,17.92-79.36l-71.68-71.68 c-20.48-17.92-51.2-17.92-69.12,0l-48.64,48.64c-48.64,51.2,5.12,186.88,125.44,307.2c120.32,120.32,256,176.641,307.2,125.44 l48.64-48.64C517.581,425.6,517.581,394.88,499.66,376.96z"></path></svg><img></span>&nbsp;Call now
+        </a>
+      </div>
+    </section>
+    <section class="u-align-center u-clearfix u-image u-shading u-section-2" id="sec-6632" data-image-width="1600" data-image-height="1067">
+      <div class="u-clearfix u-sheet u-sheet-1">
+        <div class="u-expanded-width-lg u-expanded-width-md u-expanded-width-sm u-expanded-width-xl u-table u-table-responsive u-table-1">
+          <table class="u-table-entity">
+            <colgroup>
+              <col width="49%">
+              <col width="51%">
+            </colgroup>
+            <thead class="u-palette-5-dark-3 u-table-header u-table-header-1">
+              <tr style="height: 78px;">
+                <th colspan="2" class="u-border-2 u-border-no-left u-border-no-right u-border-no-top u-border-palette-5-dark-1 u-table-cell u-table-cell-1" style= "text-align: center">Waxing</th>
+                <!-- <th class="u-border-2 u-border-no-left u-border-no-right u-border-no-top u-border-palette-5-dark-1 u-table-cell u-table-cell-2">price</th> -->
+              </tr>
+            </thead>
+            <tbody class="u-black u-table-body u-table-body-1">
+              <tr style="height: 74px;">
+                <td class="u-border-1 u-border-palette-5-dark-1 u-table-cell u-table-cell-3">Eyebrows</td>
+                <td class="u-border-1 u-border-palette-5-dark-1 u-table-cell u-table-cell-4">$ 10</td>
+              </tr>
+              <tr style="height: 53px;">
+                <td class="u-border-1 u-border-palette-5-dark-1 u-table-cell u-table-cell-5">Lip</td>
+                <td class="u-border-1 u-border-palette-5-dark-1 u-table-cell u-table-cell-6">$ 6</td>
+              </tr>
+              <tr style="height: 53px;">
+                <td class="u-border-1 u-border-palette-5-dark-1 u-table-cell u-table-cell-7">Chin</td>
+                <td class="u-border-1 u-border-palette-5-dark-1 u-table-cell u-table-cell-8">$ 8</td>
+              </tr>
+              <tr style="height: 53px;">
+                <td class="u-border-1 u-border-palette-5-dark-1 u-table-cell u-table-cell-9">Side Burns</td>
+                <td class="u-border-1 u-border-palette-5-dark-1 u-table-cell u-table-cell-10">$ 8</td>
+              </tr>
+              <tr style="height: 53px;">
+                <td class="u-border-1 u-border-palette-5-dark-1 u-table-cell u-table-cell-11">Full Face</td>
+                <td class="u-border-1 u-border-palette-5-dark-1 u-table-cell u-table-cell-12">$ 30</td>
+              </tr>
+              <tr style="height: 53px;">
+                <td class="u-border-1 u-border-palette-5-dark-1 u-table-cell u-table-cell-13">Under Arms</td>
+                <td class="u-border-1 u-border-palette-5-dark-1 u-table-cell u-table-cell-14">$ 10</td>
+              </tr>
+              <tr style="height: 53px;">
+                <td class="u-border-1 u-border-palette-5-dark-1 u-table-cell u-table-cell-13">Bikini</td>
+                <td class="u-border-1 u-border-palette-5-dark-1 u-table-cell u-table-cell-14">$ 20</td>
+              </tr>
+              <tr style="height: 53px;">
+                <td class="u-border-1 u-border-palette-5-dark-1 u-table-cell u-table-cell-13">Half Arms</td>
+                <td class="u-border-1 u-border-palette-5-dark-1 u-table-cell u-table-cell-14">$ 25</td>
+              </tr>
+              <tr style="height: 53px;">
+                <td class="u-border-1 u-border-palette-5-dark-1 u-table-cell u-table-cell-13">Full Arms</td>
+                <td class="u-border-1 u-border-palette-5-dark-1 u-table-cell u-table-cell-14">$ 45</td>
+              </tr>
+              <tr style="height: 53px;">
+                <td class="u-border-1 u-border-palette-5-dark-1 u-table-cell u-table-cell-13">Upper Legs</td>
+                <td class="u-border-1 u-border-palette-5-dark-1 u-table-cell u-table-cell-14">$ 35</td>
+              </tr>
+              <tr style="height: 53px;">
+                <td class="u-border-1 u-border-palette-5-dark-1 u-table-cell u-table-cell-13">Lower Legs</td>
+                <td class="u-border-1 u-border-palette-5-dark-1 u-table-cell u-table-cell-14">$ 25</td>
+              </tr>
+              <tr style="height: 53px;">
+                <td class="u-border-1 u-border-palette-5-dark-1 u-table-cell u-table-cell-13">Full Legs</td>
+                <td class="u-border-1 u-border-palette-5-dark-1 u-table-cell u-table-cell-14">$ 50</td>
               </tr>
             </tbody>
           </table>
@@ -146,7 +281,7 @@
     </section>
     <section class="u-clearfix u-section-5" id="sec-1fbd">
       <div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
-        <a href="tel:0123456789" class="u-align-center u-btn u-btn-round u-button-style u-hover-palette-4-base u-palette-3-base u-radius-50 u-btn-1"><span class="u-icon"><svg class="u-svg-content" viewBox="0 0 513.64 513.64" x="0px" y="0px" style="width: 1em; height: 1em;"><path d="M499.66,376.96l-71.68-71.68c-25.6-25.6-69.12-15.359-79.36,17.92c-7.68,23.041-33.28,35.841-56.32,30.72 c-51.2-12.8-120.32-79.36-133.12-133.12c-7.68-23.041,7.68-48.641,30.72-56.32c33.28-10.24,43.52-53.76,17.92-79.36l-71.68-71.68 c-20.48-17.92-51.2-17.92-69.12,0l-48.64,48.64c-48.64,51.2,5.12,186.88,125.44,307.2c120.32,120.32,256,176.641,307.2,125.44 l48.64-48.64C517.581,425.6,517.581,394.88,499.66,376.96z"></path></svg><img></span>&nbsp;Call now
+        <a href="tel:17059776886" class="u-align-center u-btn u-btn-round u-button-style u-hover-palette-4-base u-palette-3-base u-radius-50 u-btn-1"><span class="u-icon"><svg class="u-svg-content" viewBox="0 0 513.64 513.64" x="0px" y="0px" style="width: 1em; height: 1em;"><path d="M499.66,376.96l-71.68-71.68c-25.6-25.6-69.12-15.359-79.36,17.92c-7.68,23.041-33.28,35.841-56.32,30.72 c-51.2-12.8-120.32-79.36-133.12-133.12c-7.68-23.041,7.68-48.641,30.72-56.32c33.28-10.24,43.52-53.76,17.92-79.36l-71.68-71.68 c-20.48-17.92-51.2-17.92-69.12,0l-48.64,48.64c-48.64,51.2,5.12,186.88,125.44,307.2c120.32,120.32,256,176.641,307.2,125.44 l48.64-48.64C517.581,425.6,517.581,394.88,499.66,376.96z"></path></svg><img></span>&nbsp;Call now
         </a>
       </div>
     </section>
@@ -159,7 +294,7 @@
                 <div class="u-container-layout">
                   <div class="u-align-left u-border-5 u-border-palette-1-base u-left-0 u-shape u-shape-1"></div>
                   <div class="u-align-left u-left-0 u-opacity u-opacity-50 u-palette-1-base u-shape u-shape-2"></div>
-                  <img class="u-image u-image-1" src="images/photo15215874117736a18c6e182a5.jpg">
+                  <img class="u-image u-image-1" src="images/nail_image/section_6_1.jpg">
                 </div>
               </div>
               <div class="u-align-left u-container-style u-layout-cell u-right-cell u-size-30 u-layout-cell-2">
@@ -186,7 +321,7 @@
                 <h1 class="u-text u-text-1">What products do you have? </h1>
                 <div class="u-border-3 u-border-grey-dark-1 u-line u-line-horizontal u-line-1"></div>
                 <p class="u-text u-text-2">Every single ingredient you put on your skin is information, every ingredient contains messages that communicate to every single cell in your skin.</p>
-                <a href="tel:0123456789" class="u-btn u-btn-round u-button-style u-hover-palette-4-base u-palette-3-base u-radius-50 u-btn-1"><span class="u-icon"><svg class="u-svg-content" viewBox="0 0 513.64 513.64" x="0px" y="0px" style="width: 1em; height: 1em;"><path d="M499.66,376.96l-71.68-71.68c-25.6-25.6-69.12-15.359-79.36,17.92c-7.68,23.041-33.28,35.841-56.32,30.72 c-51.2-12.8-120.32-79.36-133.12-133.12c-7.68-23.041,7.68-48.641,30.72-56.32c33.28-10.24,43.52-53.76,17.92-79.36l-71.68-71.68 c-20.48-17.92-51.2-17.92-69.12,0l-48.64,48.64c-48.64,51.2,5.12,186.88,125.44,307.2c120.32,120.32,256,176.641,307.2,125.44 l48.64-48.64C517.581,425.6,517.581,394.88,499.66,376.96z"></path></svg><img></span>&nbsp;Call now
+                <a href="tel:17059776886" class="u-btn u-btn-round u-button-style u-hover-palette-4-base u-palette-3-base u-radius-50 u-btn-1"><span class="u-icon"><svg class="u-svg-content" viewBox="0 0 513.64 513.64" x="0px" y="0px" style="width: 1em; height: 1em;"><path d="M499.66,376.96l-71.68-71.68c-25.6-25.6-69.12-15.359-79.36,17.92c-7.68,23.041-33.28,35.841-56.32,30.72 c-51.2-12.8-120.32-79.36-133.12-133.12c-7.68-23.041,7.68-48.641,30.72-56.32c33.28-10.24,43.52-53.76,17.92-79.36l-71.68-71.68 c-20.48-17.92-51.2-17.92-69.12,0l-48.64,48.64c-48.64,51.2,5.12,186.88,125.44,307.2c120.32,120.32,256,176.641,307.2,125.44 l48.64-48.64C517.581,425.6,517.581,394.88,499.66,376.96z"></path></svg><img></span>&nbsp;Call now
                 </a>
               </div>
             </div>
@@ -208,24 +343,21 @@
                 <div class="u-container-layout u-container-layout-2"><span class="u-icon u-icon-circle u-opacity u-opacity-60 u-text-palette-1-base u-icon-1"><svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 95.333 95.332" style=""><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-6858"></use></svg><svg class="u-svg-content" viewBox="0 0 95.333 95.332" x="0px" y="0px" id="svg-6858" style="enable-background:new 0 0 95.333 95.332;"><g><g><path d="M30.512,43.939c-2.348-0.676-4.696-1.019-6.98-1.019c-3.527,0-6.47,0.806-8.752,1.793    c2.2-8.054,7.485-21.951,18.013-23.516c0.975-0.145,1.774-0.85,2.04-1.799l2.301-8.23c0.194-0.696,0.079-1.441-0.318-2.045    s-1.035-1.007-1.75-1.105c-0.777-0.106-1.569-0.16-2.354-0.16c-12.637,0-25.152,13.19-30.433,32.076    c-3.1,11.08-4.009,27.738,3.627,38.223c4.273,5.867,10.507,9,18.529,9.313c0.033,0.001,0.065,0.002,0.098,0.002    c9.898,0,18.675-6.666,21.345-16.209c1.595-5.705,0.874-11.688-2.032-16.851C40.971,49.307,36.236,45.586,30.512,43.939z"></path><path d="M92.471,54.413c-2.875-5.106-7.61-8.827-13.334-10.474c-2.348-0.676-4.696-1.019-6.979-1.019    c-3.527,0-6.471,0.806-8.753,1.793c2.2-8.054,7.485-21.951,18.014-23.516c0.975-0.145,1.773-0.85,2.04-1.799l2.301-8.23    c0.194-0.696,0.079-1.441-0.318-2.045c-0.396-0.604-1.034-1.007-1.75-1.105c-0.776-0.106-1.568-0.16-2.354-0.16    c-12.637,0-25.152,13.19-30.434,32.076c-3.099,11.08-4.008,27.738,3.629,38.225c4.272,5.866,10.507,9,18.528,9.312    c0.033,0.001,0.065,0.002,0.099,0.002c9.897,0,18.675-6.666,21.345-16.209C96.098,65.559,95.376,59.575,92.471,54.413z"></path>
 </g>
 </g></svg></span>
-                  <p class="u-text u-text-2">After finding I was allergic to my previous hair color, and being newly pregnant, I was very happy to find Beauty Ecology Organic Salon's safe alternative! I'm so thankful that I no longer leave the salon with an itchy
-                                    and burning scalp. </p>
+                  <p class="u-text u-text-2">"It was my first time at this salon and I'm very happy with my nails. Will definitely return."</p>
                 </div>
               </div>
               <div class="u-align-left u-container-style u-layout-cell u-size-20 u-size-20-md u-white u-layout-cell-2">
                 <div class="u-container-layout"><span class="u-icon u-icon-circle u-opacity u-opacity-60 u-text-palette-1-base u-icon-2"><svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 95.333 95.332" style=""><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-134e"></use></svg><svg class="u-svg-content" viewBox="0 0 95.333 95.332" x="0px" y="0px" id="svg-134e" style="enable-background:new 0 0 95.333 95.332;"><g><g><path d="M30.512,43.939c-2.348-0.676-4.696-1.019-6.98-1.019c-3.527,0-6.47,0.806-8.752,1.793    c2.2-8.054,7.485-21.951,18.013-23.516c0.975-0.145,1.774-0.85,2.04-1.799l2.301-8.23c0.194-0.696,0.079-1.441-0.318-2.045    s-1.035-1.007-1.75-1.105c-0.777-0.106-1.569-0.16-2.354-0.16c-12.637,0-25.152,13.19-30.433,32.076    c-3.1,11.08-4.009,27.738,3.627,38.223c4.273,5.867,10.507,9,18.529,9.313c0.033,0.001,0.065,0.002,0.098,0.002    c9.898,0,18.675-6.666,21.345-16.209c1.595-5.705,0.874-11.688-2.032-16.851C40.971,49.307,36.236,45.586,30.512,43.939z"></path><path d="M92.471,54.413c-2.875-5.106-7.61-8.827-13.334-10.474c-2.348-0.676-4.696-1.019-6.979-1.019    c-3.527,0-6.471,0.806-8.753,1.793c2.2-8.054,7.485-21.951,18.014-23.516c0.975-0.145,1.773-0.85,2.04-1.799l2.301-8.23    c0.194-0.696,0.079-1.441-0.318-2.045c-0.396-0.604-1.034-1.007-1.75-1.105c-0.776-0.106-1.568-0.16-2.354-0.16    c-12.637,0-25.152,13.19-30.434,32.076c-3.099,11.08-4.008,27.738,3.629,38.225c4.272,5.866,10.507,9,18.528,9.312    c0.033,0.001,0.065,0.002,0.099,0.002c9.897,0,18.675-6.666,21.345-16.209C96.098,65.559,95.376,59.575,92.471,54.413z"></path>
 </g>
 </g></svg></span>
-                  <p class="u-text u-text-3">I used to be in the hair industry, so you might guess that I’m a bit picky about who does my hair.&nbsp;Etiam quis lorem vel diam blandit porttitor. Aenean elementum pretium arcu eget convallis. Donec imperdiet purus vitae
-                                    est viverra tincidunt.&nbsp;</p>
+                  <p class="u-text u-text-3">"I got my nails done yesterday and one broke off today so they kindly took me in same day and fixed the nail at no charge. i will forever be loyal to Apple Nails! the service is amazing and all the girls in there are so sweet :)"&nbsp;</p>
                 </div>
               </div>
               <div class="u-align-left u-container-style u-layout-cell u-right-cell u-size-20 u-size-20-md u-white u-layout-cell-3">
                 <div class="u-container-layout"><span class="u-icon u-icon-circle u-opacity u-opacity-60 u-text-palette-1-base u-icon-3"><svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 95.333 95.332" style=""><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-50da"></use></svg><svg class="u-svg-content" viewBox="0 0 95.333 95.332" x="0px" y="0px" id="svg-50da" style="enable-background:new 0 0 95.333 95.332;"><g><g><path d="M30.512,43.939c-2.348-0.676-4.696-1.019-6.98-1.019c-3.527,0-6.47,0.806-8.752,1.793    c2.2-8.054,7.485-21.951,18.013-23.516c0.975-0.145,1.774-0.85,2.04-1.799l2.301-8.23c0.194-0.696,0.079-1.441-0.318-2.045    s-1.035-1.007-1.75-1.105c-0.777-0.106-1.569-0.16-2.354-0.16c-12.637,0-25.152,13.19-30.433,32.076    c-3.1,11.08-4.009,27.738,3.627,38.223c4.273,5.867,10.507,9,18.529,9.313c0.033,0.001,0.065,0.002,0.098,0.002    c9.898,0,18.675-6.666,21.345-16.209c1.595-5.705,0.874-11.688-2.032-16.851C40.971,49.307,36.236,45.586,30.512,43.939z"></path><path d="M92.471,54.413c-2.875-5.106-7.61-8.827-13.334-10.474c-2.348-0.676-4.696-1.019-6.979-1.019    c-3.527,0-6.471,0.806-8.753,1.793c2.2-8.054,7.485-21.951,18.014-23.516c0.975-0.145,1.773-0.85,2.04-1.799l2.301-8.23    c0.194-0.696,0.079-1.441-0.318-2.045c-0.396-0.604-1.034-1.007-1.75-1.105c-0.776-0.106-1.568-0.16-2.354-0.16    c-12.637,0-25.152,13.19-30.434,32.076c-3.099,11.08-4.008,27.738,3.629,38.225c4.272,5.866,10.507,9,18.528,9.312    c0.033,0.001,0.065,0.002,0.099,0.002c9.897,0,18.675-6.666,21.345-16.209C96.098,65.559,95.376,59.575,92.471,54.413z"></path>
 </g>
 </g></svg></span>
-                  <p class="u-text u-text-4">I absolutely love the organic skin care and hair care products that she has developed with her chemists. Etiam quis lorem vel diam blandit porttitor. Aenean elementum pretium arcu eget convallis. Donec imperdiet purus vitae
-                                    est viverra tincidunt.</p>
+                  <p class="u-text u-text-4">"Had a lovely experience here in getting both a full set and a pedicure. They were quick, clean and did a great job. Plus I’m in love with my new nails 🥰"</p>
                 </div>
               </div>
             </div>
@@ -267,7 +399,7 @@
                   <h1 class="u-text u-text-1">Massages</h1>
                   <div class="u-border-3 u-border-black u-line u-line-horizontal u-line-1"></div>
                   <p class="u-text u-text-2">This form of therapy involves hands-on techniques to help increase circulation, relieve tension, reduce stress, relieve anxiety and improve sleep. Our highly qualified therapists will discuss your specific concerns</p>
-                  <a href="tel:0123456789" class="u-btn u-btn-round u-button-style u-hover-palette-4-base u-palette-3-base u-radius-50 u-btn-1"><span class="u-icon"><svg class="u-svg-content" viewBox="0 0 513.64 513.64" x="0px" y="0px" style="width: 1em; height: 1em;"><path d="M499.66,376.96l-71.68-71.68c-25.6-25.6-69.12-15.359-79.36,17.92c-7.68,23.041-33.28,35.841-56.32,30.72 c-51.2-12.8-120.32-79.36-133.12-133.12c-7.68-23.041,7.68-48.641,30.72-56.32c33.28-10.24,43.52-53.76,17.92-79.36l-71.68-71.68 c-20.48-17.92-51.2-17.92-69.12,0l-48.64,48.64c-48.64,51.2,5.12,186.88,125.44,307.2c120.32,120.32,256,176.641,307.2,125.44 l48.64-48.64C517.581,425.6,517.581,394.88,499.66,376.96z"></path></svg><img></span>&nbsp;Call now
+                  <a href="tel:17059776886" class="u-btn u-btn-round u-button-style u-hover-palette-4-base u-palette-3-base u-radius-50 u-btn-1"><span class="u-icon"><svg class="u-svg-content" viewBox="0 0 513.64 513.64" x="0px" y="0px" style="width: 1em; height: 1em;"><path d="M499.66,376.96l-71.68-71.68c-25.6-25.6-69.12-15.359-79.36,17.92c-7.68,23.041-33.28,35.841-56.32,30.72 c-51.2-12.8-120.32-79.36-133.12-133.12c-7.68-23.041,7.68-48.641,30.72-56.32c33.28-10.24,43.52-53.76,17.92-79.36l-71.68-71.68 c-20.48-17.92-51.2-17.92-69.12,0l-48.64,48.64c-48.64,51.2,5.12,186.88,125.44,307.2c120.32,120.32,256,176.641,307.2,125.44 l48.64-48.64C517.581,425.6,517.581,394.88,499.66,376.96z"></path></svg><img></span>&nbsp;Call now
                   </a>
                 </div>
               </div>
@@ -275,7 +407,7 @@
                 <div class="u-container-layout">
                   <div class="u-align-left u-border-5 u-border-palette-1-base u-left-0 u-shape u-shape-1"></div>
                   <div class="u-align-left u-left-0 u-opacity u-opacity-50 u-palette-1-base u-shape u-shape-2"></div>
-                  <img class="u-image u-image-1" src="images/youngblondewomanhavingmassageandsmilinginthespa_11391139.jpg">
+                  <img class="u-image u-image-1" src="images/nail_image/section_10.jpg">
                 </div>
               </div>
             </div>
@@ -344,27 +476,35 @@
         </div>
       </div>
     </section>
-    
+
     <footer class="u-black u-clearfix u-footer" id="sec-2304"><div class="u-clearfix u-sheet u-sheet-1">
         <div class="u-clearfix u-expanded-width-lg u-expanded-width-md u-expanded-width-xl u-expanded-width-xs u-gutter-30 u-layout-wrap u-layout-wrap-1">
           <div class="u-gutter-0 u-layout">
             <div class="u-layout-row">
               <div class="u-align-left u-container-style u-layout-cell u-left-cell u-size-20 u-size-20-md u-layout-cell-1">
                 <div class="u-container-layout u-valign-top u-container-layout-1">
-                  <h6 class="u-text u-text-1">Headline</h6>
-                  <p class="u-small-text u-text u-text-variant u-text-2">Sample footer text</p>
+                  <h6 class="u-text u-text-1">Contact</h6>
+                  <p class="u-small-text u-text u-text-variant u-text-2">(705) 977-6886</p>
+                  <a href="https://nicepage.com/c/team-html-templates" class="u-btn u-btn-round u-button-style u-hover-palette-4-base u-palette-3-base u-radius-50 u-btn-1"><span class="u-icon"><svg class="u-svg-content" viewBox="0 0 513.64 513.64" x="0px" y="0px" style="width: 1em; height: 1em;"><path d="M499.66,376.96l-71.68-71.68c-25.6-25.6-69.12-15.359-79.36,17.92c-7.68,23.041-33.28,35.841-56.32,30.72 c-51.2-12.8-120.32-79.36-133.12-133.12c-7.68-23.041,7.68-48.641,30.72-56.32c33.28-10.24,43.52-53.76,17.92-79.36l-71.68-71.68 c-20.48-17.92-51.2-17.92-69.12,0l-48.64,48.64c-48.64,51.2,5.12,186.88,125.44,307.2c120.32,120.32,256,176.641,307.2,125.44 l48.64-48.64C517.581,425.6,517.581,394.88,499.66,376.96z"></path></svg><img></span>&nbsp;Call now
+                  </a>
                 </div>
               </div>
               <div class="u-align-left u-container-style u-layout-cell u-size-20 u-size-20-md u-layout-cell-2">
                 <div class="u-container-layout u-valign-top u-container-layout-2">
-                  <h6 class="u-text u-text-3">Headline</h6>
-                  <p class="u-small-text u-text u-text-variant u-text-4">Sample footer text</p>
+                  <h6 class="u-text u-text-3">Address</h6>
+                  <p class="u-small-text u-text u-text-variant u-text-4">871 Chemong Road Unit 14A Peterborough, ON K9H5Z5 Canada</p>
                 </div>
               </div>
               <div class="u-align-left u-container-style u-layout-cell u-right-cell u-size-20 u-size-20-md u-layout-cell-3">
                 <div class="u-container-layout u-valign-top u-container-layout-3">
-                  <h6 class="u-text u-text-5">Headline</h6>
-                  <p class="u-small-text u-text u-text-variant u-text-6">Sample footer text</p>
+                  <h6 class="u-text u-text-5">Business Hours</h6>
+                  <p class="u-small-text u-text u-text-variant u-text-6">Mon:	10:00 AM – 7:00 PM</p>
+                  <p class="u-small-text u-text u-text-variant u-text-6">Tue:	10:00 AM – 7:00 PM</p>
+                  <p class="u-small-text u-text u-text-variant u-text-6">Wed:	10:00 AM – 7:00 PM</p>
+                  <p class="u-small-text u-text u-text-variant u-text-6">Thu:	10:00 AM – 7:00 PM</p>
+                  <p class="u-small-text u-text u-text-variant u-text-6">Fri:	10:00 AM – 7:00 PM</p>
+                  <p class="u-small-text u-text u-text-variant u-text-6">Sat:	10:00 AM – 6:00 PM</p>
+                  <p class="u-small-text u-text u-text-variant u-text-6">Sun:	11:00 AM – 4:00 PM</p>
                 </div>
               </div>
             </div>
@@ -382,15 +522,15 @@
         </div>
       </div></footer>
     <section class="u-backlink u-clearfix u-grey-80">
-      <a class="u-link" href="https://nicepage.com/website-mockup" target="_blank">
-        <span>Website Mockup</span>
-      </a>
       <p class="u-text">
-        <span>created with</span>
+        <span>Website</span>
       </p>
-      <a class="u-link" href="https://nicepage.com/website-builder" target="_blank">
-        <span>Best Free Website Builder</span>
-      </a>. 
+      <p class="u-text">
+        <span>created by</span>
+      </p>
+      <p class="u-text">
+        <span>Bao Khanh</span>
+      </p>.
     </section><span style="height: 64px; width: 64px; margin-left: 0px; margin-right: auto; margin-top: 0px; right: 15px; bottom: 15px; padding: 16px; background-image: none;" class="u-back-to-top u-icon u-icon-circle u-opacity u-opacity-85 u-palette-1-base u-spacing-15" data-href="#">
         <svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 551.13 551.13"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-1d98"></use></svg>
         <svg class="u-svg-content" enable-background="new 0 0 551.13 551.13" viewBox="0 0 551.13 551.13" xmlns="http://www.w3.org/2000/svg" id="svg-1d98"><path d="m275.565 189.451 223.897 223.897h51.668l-275.565-275.565-275.565 275.565h51.668z"></path></svg>
