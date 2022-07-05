@@ -27,7 +27,7 @@
         <h3 class="u-align-left-xs u-custom-font u-headline u-text u-text-font u-text-1">
           <a href="/">Beauty Salon</a>
         </h3>
-      </div></header> 
+      </div></header>
     <section class="u-clearfix u-grey-5 u-valign-bottom u-section-1" id="sec-c458">
       <div class="u-clearfix u-expanded-width u-layout-wrap u-layout-wrap-1">
         <div class="u-layout">
@@ -344,8 +344,8 @@
         </div>
       </div>
     </section>
-    
-    
+
+
     <footer class="u-black u-clearfix u-footer" id="sec-2304"><div class="u-clearfix u-sheet u-sheet-1">
         <div class="u-clearfix u-expanded-width-lg u-expanded-width-md u-expanded-width-xl u-expanded-width-xs u-gutter-30 u-layout-wrap u-layout-wrap-1">
           <div class="u-gutter-0 u-layout">
@@ -391,7 +391,7 @@
       </p>
       <a class="u-link" href="https://nicepage.com/website-builder" target="_blank">
         <span>Best Free Website Builder</span>
-      </a>. 
+      </a>.
     </section><span style="height: 64px; width: 64px; margin-left: 0px; margin-right: auto; margin-top: 0px; right: 15px; bottom: 15px; padding: 16px; background-image: none;" class="u-back-to-top u-icon u-icon-circle u-opacity u-opacity-85 u-palette-1-base u-spacing-15" data-href="#">
         <svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 551.13 551.13"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-1d98"></use></svg>
         <svg class="u-svg-content" enable-background="new 0 0 551.13 551.13" viewBox="0 0 551.13 551.13" xmlns="http://www.w3.org/2000/svg" id="svg-1d98"><path d="m275.565 189.451 223.897 223.897h51.668l-275.565-275.565-275.565 275.565h51.668z"></path></svg>
